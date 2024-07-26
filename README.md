@@ -24,4 +24,4 @@ The enclosure is a sandwich of 9 layers of transparent acrylic, also created in 
 
 There's a schematic in PINS.h. The resources subdirectory includes python scripts etc and Gerber files.
 
-Link to [project](https://hackaday.io/projects/hacker/2191) TBD
+Link to [Hackaday project](https://hackaday.io/project/197069-weatherrenderround).
