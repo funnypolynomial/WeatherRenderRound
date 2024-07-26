@@ -20,7 +20,7 @@ On the front side of the PCB, in a larger space, the Leo sits **under** the LCD.
 ![DSC06176](https://github.com/user-attachments/assets/a8e158dd-964d-436a-b711-ad92a22a5f64)
 
 
-The encosure is a sandwich of 9 layers of transparent acrylic, also created in Python with my [Inksnek](https://github.com/funnypolynomial/inksnek) class, plus the PCB.
+The enclosure is a sandwich of 9 layers of transparent acrylic, also created in Python with my [Inksnek](https://github.com/funnypolynomial/inksnek) class, plus the PCB.
 
 There's a schematic in PINS.h. The resources subdirectory includes python scripts etc and Gerber files.
 
