@@ -23,7 +23,7 @@ int32_t Round(int32_t value, int divisor)
 {
   // return value/divisor, rounded
   int32_t result = value/divisor;
-  if ((abs(result) % divisor) >= (divisor / 2))
+  if ((abs(value) % divisor) >= (divisor / 2))
     result += (result < 0)?-1:+1;
   return result;
 }
@@ -32,7 +32,7 @@ int Round(uint32_t value, int divisor)
 {
   // return value/divisor, rounded
   int result = value/divisor;
-  if ((result % divisor) >= (divisor / 2))
+  if ((value % divisor) >= (uint32_t)(divisor / 2))
     result++;
   return result;
 }
